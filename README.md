@@ -4,6 +4,10 @@ description: My notes about various offensive & defensive security topics
 
 # Introduction
 
+| Deprecation | Deployment status | Hosting | Links |
+| --- | --- | --- | --- |
+| No deprecation notice | Fork deployment unverified | Upstream documentation site | [Upstream wiki repository](https://github.com/xct/wiki) |
+
 This gitbook is a collection of notes on pentests, security reviews, trainings, studying in general or doing some bug bounty and CTFs. These are meant to quickly lookup some commands & snippets. You can contribute by using the github repository: [https://github.com/xct/wiki](https://github.com/xct/wiki).
 
 Please consider contributing to [https://www.patreon.com/xct](https://www.patreon.com/xct) to support this site (and gain access to vulnlab).
